@@ -1,4 +1,4 @@
 
-![](https://github-readme-stats.vercel.app/api?username=Hibari233&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Hibari233)
 
 
